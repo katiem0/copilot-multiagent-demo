@@ -1,0 +1,9 @@
+:focus-visible {
+  outline: 3px solid #e96638;
+  outline-offset: 3px;
+}
+
+::selection {
+  background: #d8f16a;
+  color: #173f2b;
+}
