@@ -1,4 +1,4 @@
-# Registration release candidate
+# Registration ticket
 
 The Gatherly team wants to release the event registration modal this week.
 

@@ -39,10 +39,10 @@ npm run lint
 npm run build
 ```
 
-## Demo path
+## Try it yourself
 
-All copy/paste prompts and reset points are in
-[`demo/follow-along.md`](demo/follow-along.md).
+After the presentation, use the
+[participant guide](demo/participant-guide.md) to run each workflow yourself.
 
 | Stage | What changes | Pattern |
 |---|---|---|
@@ -60,10 +60,10 @@ All copy/paste prompts and reset points are in
   skills/         Discoverable review playbook
   copilot-instructions.md
 demo/
-  follow-along.md Audience-facing demo prompts
-  release-candidate.md Acceptance criteria for the registration flow
+  participant-guide.md Self-guided exercises for participants
+  registration-ticket.md Acceptance criteria for the registration flow
 src/
-  components/     Event cards and the registration release candidate
+  components/     Event cards and the registration feature
   data/           Synthetic event data
 slides/
   multi-agent-orchestration-part1.pptx

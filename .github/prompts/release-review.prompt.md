@@ -1,14 +1,14 @@
 ---
 name: release-review
-description: Review the Gatherly registration release candidate with a consistent release decision.
+description: Review the Gatherly registration ticket with a consistent release decision.
 agent: ask
 ---
 
-Review the Gatherly registration release candidate without editing files.
+Review the Gatherly registration ticket without editing files.
 
 Read:
 
-- [acceptance criteria](../../demo/release-candidate.md)
+- [registration ticket](../../demo/registration-ticket.md)
 - [registration form](../../src/components/RegistrationForm.tsx)
 - [registration tests](../../src/components/RegistrationForm.test.tsx)
 
